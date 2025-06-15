@@ -11,3 +11,5 @@ Gnuplot - https://docs.google.com/document/d/1SyZeXMjE70FC7O0zqwzjf_B9M-7tZVrkR6
 Права и взлом - https://docs.google.com/document/d/106XhnzOKK68BN6tmJsMIbH8N2nsgMMFXBI-Vy3UPnH0/edit?usp=drive_link
 
 Лекция Bash - https://docs.google.com/document/d/1Nh-pmDiWtIQNw_lQly7r-MsH6EQXcYBtyGA3d0vqFKo/edit?usp=drive_link
+
+Конспект - https://docs.google.com/document/d/1NoI_WzsbJP2KDI1-GF17kTJc_O7jq1bAGSzHocCEU0A/edit?usp=drive_link
